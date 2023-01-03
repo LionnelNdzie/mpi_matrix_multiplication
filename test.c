@@ -15,7 +15,7 @@ int main(int argc, char** argv){
     //printMatrix(matrix_a, rows_a, cols_a);
     //printMatrix(matrix_b, rows_b, cols_b);
 
-    double** result = mulMatrix(matrix_a, rows_a, cols_a, matrix_b, rows_b, cols_b);
+    //double** result = mulMatrix(matrix_a, rows_a, cols_a, matrix_b, rows_b, cols_b);
     
     //printMatrix(result, rows_a, cols_b);
     return 0;
